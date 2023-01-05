@@ -77,3 +77,4 @@ puts name
  # into a bang method. The string stored in the variable name is 
  # permanently affected (until we alter it again).
  puts name
+ # this will return "george"
